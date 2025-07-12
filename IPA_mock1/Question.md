@@ -1,3 +1,7 @@
+⚠️ This problem was provided in a mock test session conducted by TCS.
+I do not claim ownership of the problem statement.
+Used here strictly for educational purposes.
+
 # Java: Photographer
 
 Create a class Photographer with the following attributes:
